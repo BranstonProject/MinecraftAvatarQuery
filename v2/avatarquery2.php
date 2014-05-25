@@ -1,7 +1,7 @@
 <?php
 //The following script is tested only with servers running on Minecraft 1.7.
 
-$SERVER_IP="127.0.0.1"; //Insert the IP of the server you want to query. Query must be enabled in your server.properties file!
+$SERVER_IP="mc.kaoscraft.co.uk"; //Insert the IP of the server you want to query. Query must be enabled in your server.properties file!
 
 //You can either insert the DNS (eg. play.hivemc.com) OR the IP itself (eg. 187.23.123.21). 
 //Note: port is not neccesary when running the server on default port, otherwise use it!
